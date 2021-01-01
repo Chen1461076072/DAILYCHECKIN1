@@ -23,7 +23,7 @@
   ],
   "VQQ_COOKIE_LIST": [
     {
-      "vqq_cookie": "帐号1 cookie"
+      "vqq_cookie": "_qpsvr_localtk=0.7901858980419278; ptui_loginuin=1461076072; RK=5vIZEZD+fY; ptcz=0e02b99cca67befb944e3a451e66b7af3c3af774d4e139afb11d08c81962ecc4; main_login=qq; vqq_access_token=971AF4BAAE02AFA4C38F9C33E9C5BBE8; vqq_appid=101483052; vqq_openid=8C636837305FF3079524B6C73D71188F; vqq_vuserid=246415767; vqq_vusession=7af85707d652b82f00000000df84db2d5eab9d24849e; vqq_refresh_token=A8835BC73E4822A0A58ACDF2E4859751; vqq_next_refresh_time=6600; vqq_login_time_init=1609467617"
     },
     {
       "vqq_cookie": "帐号2 cookie"
@@ -241,15 +241,15 @@
   ],
   "BILIBILI_COOKIE_LIST": [
     {
-      "bilibili_cookie": "c2lkPTlndWRjcXBnOyBmaW5nZXI9NTI0MDE0Mjc1OyBfdXVpZD02M0YxNDQxQS05NTg3LURBREItOTlERi0zMkVBQTE0N0VCMEEzNDcwN2luZm9jOyBidXZpZDM9RkM0OUE4NzItNEJDMC00MzNBLTkzNjEtRUFEOEQyODlCODM2OTUxODBpbmZvYzsgRGVkZVVzZXJJRD0zMTk2NDY5MjQ7IERlZGVVc2VySURfX2NrTWQ1PWVkMGRhMjZhNDM5YzUzNzM7IFNFU1NEQVRBPThjZGJhZGFkJTJDMTYyNDY3NDY1NCUyQzY1Njk3KmMxOyBiaWxpX2pjdD1mOTEyNTk3YWU2NjA3OWFjNWI3MjQwNWZhNzNiODQxNw==",
+      "bilibili_cookie": "sid=9gudcqpg; finger=524014275; _uuid=63F1441A-9587-DADB-99DF-32EAA147EB0A34707infoc; buvid3=FC49A872-4BC0-433A-9361-EAD8D289B83695180infoc; DedeUserID=319646924; DedeUserID__ckMd5=ed0da26a439c5373; SESSDATA=8cdbadad%2C1624674654%2C65697*c1; bili_jct=f912597ae66079ac5b72405fa73b8417",
       "coin_num": 0,
-      "coin_type": 0,
+      "coin_type": 1,
       "silver2coin": true
     },
     {
       "bilibili_cookie": "帐号2 cookie",
       "coin_num": 0,
-      "coin_type": 1,
+      "coin_type": 0,
       "silver2coin": true
     }
   ]
