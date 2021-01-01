@@ -1,7 +1,7 @@
 {
   "DINGTALK_SECRET": "xxxxxx",
   "DINGTALK_ACCESS_TOKEN": "xxxxxx",
-  "SCKEY": "xxxxxx",
+  "SCKEY": "SCU138194T7301edf64b8963353d58e3fe69df80d85fe2bff22f6ee",
   "QMSG_KEY": "xxxxxx",
   "TG_BOT_TOKEN": "xxxxxx",
   "TG_USER_ID": "xxxxxx",
@@ -10,7 +10,7 @@
   "COOLPUSHWX": true,
   "COOLPUSHEMAIL": true,
   "CITY_NAME_LIST": [
-    "上海"
+    "金塔县"
   ],
   "MOTTO": true,
   "IQIYI_COOKIE_LIST": [
@@ -47,8 +47,8 @@
   ],
   "MUSIC163_ACCOUNT_LIST": [
     {
-      "music163_phone": "帐号1 手机号",
-      "music163_password": "帐号1 密码"
+      "music163_phone": "17609375200",
+      "music163_password": "CHEN1461076072"
     },
     {
       "music163_phone": "帐号2 手机号",
@@ -241,9 +241,9 @@
   ],
   "BILIBILI_COOKIE_LIST": [
     {
-      "bilibili_cookie": "帐号1 cookie",
+      "bilibili_cookie": "c2lkPTlndWRjcXBnOyBmaW5nZXI9NTI0MDE0Mjc1OyBfdXVpZD02M0YxNDQxQS05NTg3LURBREItOTlERi0zMkVBQTE0N0VCMEEzNDcwN2luZm9jOyBidXZpZDM9RkM0OUE4NzItNEJDMC00MzNBLTkzNjEtRUFEOEQyODlCODM2OTUxODBpbmZvYzsgRGVkZVVzZXJJRD0zMTk2NDY5MjQ7IERlZGVVc2VySURfX2NrTWQ1PWVkMGRhMjZhNDM5YzUzNzM7IFNFU1NEQVRBPThjZGJhZGFkJTJDMTYyNDY3NDY1NCUyQzY1Njk3KmMxOyBiaWxpX2pjdD1mOTEyNTk3YWU2NjA3OWFjNWI3MjQwNWZhNzNiODQxNw==",
       "coin_num": 0,
-      "coin_type": 1,
+      "coin_type": 0,
       "silver2coin": true
     },
     {
